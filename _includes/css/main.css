@@ -196,10 +196,11 @@ section.tout {
     }
 }
 
-@media(min-width:322px) and (max-width:992px) {
+@media(min-width:322px) and (max-width:1367px) {
     body{
         padding-top: 50px;
     }
+
 }
 
 @media(max-width:767px) {
